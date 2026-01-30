@@ -31,6 +31,9 @@ Verifica que el repositorio esté correctamente clonado usando git status.
 - Uso de la consola:
 [Uso de la consola](./docs/uso_consola.md)
 
+- Repositorio local: [Repositorio local](./docs/repositorio_local.md)
+
+
 
 
 
