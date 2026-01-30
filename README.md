@@ -4,7 +4,35 @@
 Nombre del estudiante:  
 Id.:  
 ---
+
+# Descripcion del contenido del repositorio
+
+En este repositorio vamos a encontrar una par de carpetas donde vamos a encontrar cómo usar la consola de git, como crear archivos y editarlos, cómo trabajar con github y demas.
+
+# Pasos para clonar y ejecutar el proyecto
+
+Entra al repositorio del proyecto en GitHub que quieres clonar.
+
+Haz clic en el botón Code y copia la URL del repositorio (HTTPS o SSH).
+
+Abre la terminal en tu computadora.
+
+Ve a la carpeta donde quieres guardar el proyecto con cd ruta/donde/guardar.
+
+Ejecuta el comando git clone URL-del-repositorio, lo que descargará todo el proyecto y su historial a tu máquina.
+
+Entra a la carpeta del proyecto clonado con cd nombre-del-repositorio.
+
+Verifica que el repositorio esté correctamente clonado usando git status.
+
+
+# Tabla de contenido
+
+[mc](./docs/uso_consola.md)
+
+
 # Evaluación
+
 
 ### **Descripción de la Actividad:**
 
