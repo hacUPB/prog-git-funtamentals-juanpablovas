@@ -28,10 +28,14 @@ Verifica que el repositorio esté correctamente clonado usando git status.
 
 # Tabla de contenido
 
-- Uso de la consola:
-[Uso de la consola](./docs/uso_consola.md)
+- [Uso de la consola](./docs/uso_consola.md)
 
-- Repositorio local: [Repositorio local](./docs/repositorio_local.md)
+- [Repositorio local](./docs/repositorio_local.md)
+
+- [Reposito remoto](./docs/repositorio_remoto.md)
+
+- [Archivo gitignore](./docs/Archivo_gitignore.md)
+
 
 
 
