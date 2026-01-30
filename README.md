@@ -28,7 +28,10 @@ Verifica que el repositorio esté correctamente clonado usando git status.
 
 # Tabla de contenido
 
-[mc](./docs/uso_consola.md)
+- Uso de la consola:
+[Uso de la consola](./docs/uso_consola.md)
+
+
 
 
 # Evaluación
