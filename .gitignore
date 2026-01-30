@@ -1,0 +1,17 @@
+.env
+.env.*
+*.key
+*.pem
+node_modules/
+vendor/
+venv/
+dist/
+build/
+target/
+out/
+*.class
+*.exe
+*.o
+*.log
+*.tmp
+*.cache
